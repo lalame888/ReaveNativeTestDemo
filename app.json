@@ -1,4 +1,7 @@
 {
   "name": "MyNativeApp",
-  "displayName": "MyNativeApp"
+  "displayName": "MyNativeApp",
+  "plugins": [
+    "expo-secure-store"
+  ]
 }
